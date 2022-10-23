@@ -4,7 +4,7 @@ Recipe website that includes pictures, contact page etc.
 
 Link to project:https://simplydelicioso.netlify.app/
 
-alt![image](https://user-images.githubusercontent.com/106325339/188360879-689b09a1-7960-45ac-8e2c-914d1307284a.png)tag
+[image](https://user-images.githubusercontent.com/106325339/188360879-689b09a1-7960-45ac-8e2c-914d1307284a.png)
 
 How It's Made:
 Tech used: HTML, CSS, JavaScript
